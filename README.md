@@ -12,3 +12,6 @@ Worlds fastest block keystore database 65 million+ ops
 · Non-IO blocking FS persistence.
 
 · 655,000,000 entries loaded in the db are only 1.25 gigs of memory total for the whole program running.
+
+
+to complie you need lib-uv and zeromq lib.
